@@ -7,8 +7,9 @@ options after the user starts typing.
 Optimized for touch devices, not ready for the mouse-driven web (yet). 
 
 
-== Usage
-    
+Usage
+-----
+
     // Your basic Famo.us setup
     var mainContext = Engine.createContext();
 
