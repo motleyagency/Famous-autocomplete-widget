@@ -1,0 +1,14 @@
+.autocomplete-input {
+  input {
+    font-size: 22px;
+    line-height: 40px;
+  }
+  .option {
+    background: rgba(171, 187, 53, 0.6);
+    color: #fff;
+    border-bottom: 1px solid #666;
+    line-height: 20px;
+    font-weight: bold;
+    padding: 10px;
+  }
+}

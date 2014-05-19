@@ -1,0 +1,6 @@
+# intellij ide stuff
+*.iml
+.idea
+
+# OS generated file
+.DS_Store
